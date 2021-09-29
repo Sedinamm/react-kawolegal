@@ -1,0 +1,37 @@
+.header{
+	background-color: #390a0b;
+	height: 90px;
+}
+
+.Sign-up{
+	background-color: blue;
+	color: white;
+}
+
+.footer{
+	background: #390a0b;
+	padding: 10px	
+}
+
+.bodybg{
+	background-color: #e6e6e6;
+}
+
+.text{
+	color: white;
+	text-align: center;
+}
+
+.icons{
+	text-align: center;
+	margin-left: 30px; 
+}
+
+.links{
+	margin-top: 1.5rem;
+	padding-right: 5rem;
+}
+
+.text-color{
+	color: white;
+}

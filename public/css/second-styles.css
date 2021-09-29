@@ -1,0 +1,47 @@
+.header{
+	background-color: #390a0b;
+	height: 90px;
+}
+
+.links{
+	margin-top: 1.5rem;
+	padding-right: 5rem;
+}
+
+.Think{
+	color: blue;
+}
+
+.cart{
+	height: 20px;
+	padding-top: 1%;
+}
+
+.line{
+	width:690px; 
+	height:0.2px;
+	background-color: #d3d0d1;
+}
+
+
+.bodybg{
+	background-color: #e6e6e6;
+}
+.footer{
+	background: #390a0b;
+	padding: 10px	
+}
+
+.text{
+	color: white;
+	text-align: center;
+}
+
+.icons{
+	text-align: center;
+	margin-left: 30px; 
+}
+
+.text-color{
+	color: white;
+}
